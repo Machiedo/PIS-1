@@ -7,5 +7,6 @@ namespace dani
 {
     class NewClass1
     {
+        char c;
     }
 }
